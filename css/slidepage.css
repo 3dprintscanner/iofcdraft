@@ -59,3 +59,12 @@ html,body{height:100%;}
 
 }
 
+
+.modal-body > p {
+	color: black;
+	text-shadow: 0 0 0;
+	text-align: right;	
+}
+.modal-body > object {
+	float:left;
+}
